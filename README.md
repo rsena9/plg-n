@@ -3,7 +3,7 @@
 ##Intended Users
 
 #First milestone
-* [] Description
+* [x] Description
 * [] Intended Users
 * [] ERDs
 * [] Wireframes
